@@ -1,0 +1,9 @@
+{
+  "name": "ml-security-checklist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public ML security and production readiness checklists",
+  "devDependencies": {
+    "markdownlint-cli": "^0.41.0"
+  }
+}
