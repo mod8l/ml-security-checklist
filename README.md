@@ -2,7 +2,11 @@
 
 ![Markdown Lint](https://github.com/gadsosa/ml-security-checklist/actions/workflows/markdown-lint.yml/badge.svg)
 
-A public, non-proprietary collection of checklists, scorecards, and guides for securing machine learning systems and shipping them to production with confidence. The content aligns with the OWASP Machine Learning Top 10 and the NIST AI Risk Management Framework concepts.
+A public, non-proprietary collection of checklists, scorecards, and guides for securing machine learning systems and shipping them to production with confidence.
+
+These are the checklists I bring into ML startups before their first enterprise deal, their first security review, or their first board conversation about risk. The content aligns with the OWASP Machine Learning Top 10 and the NIST AI Risk Management Framework concepts.
+
+**Related work:** [`ml-inference-starter`](../ml-inference-starter) for a reference architecture to review, [`engineering-playbook`](../engineering-playbook) for R&D leadership and incident response, and [`platform-scripts`](../platform-scripts) for security and cost tooling.
 
 ## Audience map
 
