@@ -1,6 +1,6 @@
 # ML Security & Production Readiness Checklists
 
-![Markdown Lint](https://github.com/gadsosa/ml-security-checklist/actions/workflows/markdown-lint.yml/badge.svg)
+![Markdown Lint](https://github.com/mod8l/ml-security-checklist/actions/workflows/markdown-lint.yml/badge.svg)
 
 A public, non-proprietary collection of checklists, scorecards, and guides for securing machine learning systems and shipping them to production with confidence.
 
