@@ -10,6 +10,8 @@ A public, non-proprietary collection of checklists, scorecards, and guides for s
 |---|---|---|
 | Non-technical leaders | Plain-language risk context and a way to track top concerns | [`for-leaders/executive-summary.md`](for-leaders/executive-summary.md) |
 | Engineering teams | Concrete, actionable security and reliability controls | [`for-engineers/threat-modeling-guide.md`](for-engineers/threat-modeling-guide.md) |
+| Startup founders and early-stage teams | Stage-appropriate security priorities before customer data and enterprise deals | [`for-startups/startup-security-essentials.md`](for-startups/startup-security-essentials.md) |
+| Investors and acquirers | Red flags and scoring for technical due diligence | [`for-investors/technical-due-diligence.md`](for-investors/technical-due-diligence.md) |
 
 ## How to use this repo
 
@@ -26,7 +28,10 @@ A public, non-proprietary collection of checklists, scorecards, and guides for s
 | [`checklists/`](checklists/) | End-to-end assessment, production readiness, and model release gate checklists |
 | [`for-leaders/`](for-leaders/) | Executive summary and risk register template |
 | [`for-engineers/`](for-engineers/) | Threat modeling, data pipeline, model integrity, and inference observability guides |
+| [`for-startups/`](for-startups/) | Stage-ordered security essentials for seed-stage ML startups |
+| [`for-investors/`](for-investors/) | Technical due-diligence checklist and scoring table |
 | [`worksheets/`](worksheets/) | Fillable scorecards for PRR and security assessments |
+| [`compliance-mapping.md`](compliance-mapping.md) | Mapping of checklist items to SOC 2, ISO 27001, and NIST AI RMF |
 
 ## Contributing
 
